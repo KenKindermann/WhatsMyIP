@@ -1,8 +1,17 @@
-# React + Vite
+# WhatsMyIp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A website that displays your current IP address, provides information about your geographical location, and offers real-time weather data for your area.
 
-Currently, two official plugins are available:
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 [Live Demo](https://whats-my-ip.netlify.app)
+
+## Tech Stack:
+
+- React
+- Tailwind
+- 3 APIs
+
+## Screenshots 📸
+
+![screenshot](public/screenshot.png)
