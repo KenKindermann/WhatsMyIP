@@ -1,6 +1,7 @@
 // Components
 import Data from "./Data";
 import Date from "./Date";
+import Map from "./Map";
 import Weather from "./Weather";
 
 const Main = () => {
@@ -9,6 +10,7 @@ const Main = () => {
       <Date />
       <Weather />
       <Data />
+      <Map />
     </main>
   );
 };
